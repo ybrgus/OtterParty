@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8f64c2dda96675b4791a2466ce2b66e0
+  - enabled: 1
+    path: Assets/Scenes/JoinScene.unity
+    guid: a62a1b2e0577a6847a1cdfa0e7fea39b
+  - enabled: 1
+    path: Assets/Levels/Whitebox_Shooting.unity
+    guid: 22715d01e06a9004688ac8fffd54e788
+  - enabled: 1
+    path: Assets/Levels/Whitebox_RunJump.unity
+    guid: 4145831575b7c27418e475649838c291
+  - enabled: 1
+    path: Assets/Levels/Whitebox_ObstacleCourse.unity
+    guid: 95acf6952a24f78489cebe66eefa457e
+  - enabled: 1
+    path: Assets/Levels/Whitebox_Finale.unity
+    guid: f78e9852e52a66f47b8c837fe2e00e0c
+  - enabled: 1
+    path: Assets/Levels/PinataShootingScene.unity
+    guid: f25c8d7884bdae449b7ef646afd2315d
+  - enabled: 1
+    path: Assets/Levels/Whitebox_SymbolPlatforms.unity
+    guid: 797a225806e996d42b5b384dbe03d014
+  - enabled: 1
+    path: Assets/Levels/ChickenShootingGallery.unity
+    guid: 5b77b57d7488c6d46bdaaa2478d7cb9a
+  - enabled: 1
+    path: Assets/Levels/Whitebox_ObstacleCourse2.unity
+    guid: 7ed3369be4c5bad4485fc9c75a55389e
+  - enabled: 1
+    path: Assets/Levels/ChickenStampede.unity
+    guid: 6bc7456b890cb8b4eaab6a359f41c847
+  - enabled: 1
+    path: Assets/Levels/PaintToWin.unity
+    guid: fa539cb9b7f454945bde35db69a4de6a
+  - enabled: 1
+    path: Assets/Levels/DavidVersusGoliath.unity
+    guid: 9df3e849d08284b49904ae7aac55aecf
+  - enabled: 1
+    path: Assets/Scenes/credits.unity
+    guid: cdd6af6d8dc4b0e4bb31a236a2d28572
+  - enabled: 1
+    path: Assets/Levels/Staging Area.unity
+    guid: e2707ca818a0d7e4b87f55dc20dd19c2
+  m_configObjects: {}

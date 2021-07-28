@@ -1,0 +1,8 @@
+{
+    "finalScoreMultiplier": 2.0,
+    "playerSpeedMultiplier": 1.0,
+    "jumpHeightMultiplier": 1.0,
+    "shoveForceMultiplier": 1.0,
+    "shoveRangeMultiplier": 1.0,
+    "runAndJumpModifier": 1.0
+}
